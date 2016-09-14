@@ -1,5 +1,4 @@
 This is the source code for CS260 Homework 2.
-This work is done by Yang Yang, sid 804522285.
 
     1.dataTransform.m is used to read data from .data document and transform to matrix for compute.
     
